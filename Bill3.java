@@ -10,7 +10,7 @@ public class Bill3 {
 		double sum = Double.parseDouble(args[3]);
 		
 
-		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 + ":pay" + Math.ceil(sum/3));
+		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 + ": pay " + Math.ceil(sum/3) + " shekels");
 
 	}
 
